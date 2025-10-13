@@ -1,0 +1,1 @@
+// Handles user input, fetch requests to backend, and UI updates

@@ -1,0 +1,2 @@
+# STORES USER DATA
+# - user SPAM/DELETE logs

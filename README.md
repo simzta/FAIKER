@@ -13,3 +13,6 @@ The project aims to develop a free, AI call screening system that automatically 
     Frontend: HTML, CSS, JS(no framework)
     Backend: Python + Flask
     Storage: JSON log of user descicions
+
+# Requirements
+1) pip install Flask flask-cors
